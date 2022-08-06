@@ -1,0 +1,9 @@
+2022-08-06 11:09:11,038 - E:\workplace\recongnition_client_0806\MainWindow.py[line:41] - INFO: 正在监听端口：60000
+2022-08-06 11:09:38,229 - E:\workplace\recongnition_client_0806\MainWindow.py[line:77] - INFO: 选取区域中
+2022-08-06 11:09:41,154 - E:\workplace\recongnition_client_0806\MainWindow.py[line:132] - INFO: 识别成功,识别结果为：160165
+2022-08-06 11:09:51,697 - E:\workplace\recongnition_client_0806\MainWindow.py[line:41] - INFO: 正在监听端口：60000
+2022-08-06 11:09:57,239 - E:\workplace\recongnition_client_0806\MainWindow.py[line:77] - INFO: 选取区域中
+2022-08-06 11:10:00,388 - E:\workplace\recongnition_client_0806\MainWindow.py[line:132] - INFO: 识别成功,识别结果为：160165
+2022-08-06 11:11:13,668 - E:\workplace\recongnition_client_0806\MainWindow.py[line:41] - INFO: 正在监听端口：60000
+2022-08-06 11:11:17,307 - E:\workplace\recongnition_client_0806\MainWindow.py[line:77] - INFO: 选取区域中
+2022-08-06 11:11:20,449 - E:\workplace\recongnition_client_0806\MainWindow.py[line:132] - INFO: 识别成功,识别结果为：160164
